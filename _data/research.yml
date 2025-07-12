@@ -1,4 +1,14 @@
 journal:
+- title: Structural equivalence in subgraph matching
+  venue: IEEE Transactions on Network Science and Engineering, 10 (4), pp. 1846-1862, 2023
+  url: https://doi.org/10.1109/TNSE.2023.3236028
+  authors:
+  - Dominic Yang
+  - Yurun Ge
+  - Thien Nguyen
+  - Denali Molitor
+  - Jacob D. Moorman
+  - Andrea L. Bertozzi
 - title: Evolutionary Constraints Mediate Extinction Risk Under Climate Change
   venue: Ecology Letters, 26 (4), pp. 529-539, 2023
   url: http://dx.doi.org/10.1111/ele.14173
