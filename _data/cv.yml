@@ -76,9 +76,18 @@ skills:
 
 experience:
 
+- position: Software Engineer
+  company: Google
+  date: Sept 2021 – Jan 2023
+  location: Seattle, WA
+  summary:
+  - Worked on resource overcommitment, allowing allocated resources to exceed physical machine capacity.
+  - Led efficiency efforts resulting in $10M+ in savings by reducing new machine orders across Cloud.
+  - Drove cross-org OKRs with 6+ engineering teams.
+
 - position: Graduate Student Researcher
   company: University of California, Los Angeles (UCLA)
-  date: Sept 2016 – Present
+  date: Sept 2016 – June 2021
   location: Los Angeles, CA
   summary:
   - Developed top performing subgraph matching algorithms for the <a href="https://www.darpa.mil/program/modeling-adversarial-activity">DARPA Modeling Adversarial Activity</a> program.
