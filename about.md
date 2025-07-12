@@ -4,8 +4,12 @@ title: About
 permalink: /index.html
 ---
 
-In June 2021, I will graduate from UCLA with a PhD in Mathematics.
-I was advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/) and [Deanna Needell](https://www.math.ucla.edu/~deanna/) during my studies.
-I graduated from NJIT in 2016 with BS degrees in Mathematical Science and Computer Science.
+Jacob Moorman is a Ph.D.-trained mathematician and software engineer 
+with a track record of turning deep theoretical research into impactful engineering solutions. 
+He has contributed to DARPA-funded programs, 
+developed open-source tools for graph and optimization problems, 
+and led infrastructure work at Google resulting in over $10M in savings. 
+His expertise spans graph algorithms and stochastic optimization, 
+with work cited in top journals and conferences.
 
 
